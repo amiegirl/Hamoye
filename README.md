@@ -10,4 +10,4 @@ STAGE C: Machine Learning: Classification - Managing the Quality Metric of Globa
 
 STAGE D: Neural Network, Image Recognition & Object Detection
 
-STAGE E: practical Time Series Analysis & Forecast
+STAGE E: Practical Time Series Analysis & Forecast

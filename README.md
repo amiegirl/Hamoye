@@ -1,5 +1,5 @@
 # Hamoye Data Science Project Files
-Pre-Courses: Introduction to Python With Google Colab & Anaconda
+Pre-Courses: Introduction to Python With Google Colab & Anaconda,
 Version control with Git
              
 STAGE A: Introduction to Python for Machine Learning
